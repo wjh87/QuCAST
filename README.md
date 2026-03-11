@@ -1,1 +1,1 @@
-!!!!
+The experimental data files for **QuCAST: A Time Series Forecasting Model with Quantum Feature Extraction Designed by Collaborative Quantum Architecture Search** are four in total, namely: CSG-SPD, CSG-WPD, HYDRO, and JEDOW.
